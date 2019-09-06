@@ -1,0 +1,7 @@
+server:
+  port: 2000
+spring:
+  redis:
+    database: 0
+    host: 101.132.110.63
+    password:
